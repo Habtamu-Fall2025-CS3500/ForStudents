@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "DemoGUI\Demo.csproj", "{CF5F9B6E-74DA-49D8-B218-6347FE351DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetPanel", "SpreadsheetPanel\SpreadsheetPanel.csproj", "{493F6152-D96B-4CA9-A6AA-9843587A58AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5F9B6E-74DA-49D8-B218-6347FE351DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5F9B6E-74DA-49D8-B218-6347FE351DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5F9B6E-74DA-49D8-B218-6347FE351DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5F9B6E-74DA-49D8-B218-6347FE351DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493F6152-D96B-4CA9-A6AA-9843587A58AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493F6152-D96B-4CA9-A6AA-9843587A58AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493F6152-D96B-4CA9-A6AA-9843587A58AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493F6152-D96B-4CA9-A6AA-9843587A58AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2F1F39-7E14-49E8-A35B-0525D625488E}
+	EndGlobalSection
+EndGlobal
